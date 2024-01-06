@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad Saad123
+- 👋 Hi, I’m waqar haider
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach haiderwaqar2002@gmail.com
