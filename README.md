@@ -21,24 +21,36 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:waqarhaider@example.com">
+  <a href="mailto:haiderwaqar2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/waqar-haider" target="_blank">
+  <a href="https://linkedin.com/in/waqar--haider" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://waqar-haider.github.io" target="_blank">
+  <a href="[https://waqar-haider.github.io](https://waqar-haider05.github.io/WAQAR-HAIDER/)" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,vs,git,github" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,sql,aws,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,jupyter,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs" /><br>
+</div>
+
+<h2 align="center">📜 Certifications 📜</h2>
+<div align="center">
+  <p><strong>IT Specialist - Python</strong> - Certiport (June 2024)</p>
+  <p><strong>Data Visualization with Python</strong> - Coursera (May 2024)</p>
+  <p><strong>Machine Learning with Python</strong> - Coursera (May 2024)</p>
+  <p><strong>Applied Data Science with Python - Level 2</strong> - IBM (April 2024)</p>
+  <p><strong>Data Analysis with Python</strong> - Cognitive Class (April 2024)</p>
+  <p><strong>Python 101 for Data Science</strong> - Cognitive Class (April 2024)</p>
+  <p><strong>Introduction to Artificial Intelligence (AI)</strong> - IBM (March 2024)</p>
+  <p><strong>Python for Data Science, AI & Development</strong> - IBM (March 2024)</p>
 </div>
 
 <br/>
@@ -67,10 +79,11 @@
 
 <hr/>
 
-<br/>
-
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <h2>💬 Quotes 💬</h2>
+  <p>"Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
+  <p>"Programming isn't about what you know; it's about what you can figure out." – Chris Pine</p>
+  <p>"The best way to predict the future is to invent it." – Alan Kay</p>
 </div>
 
 <br/>
