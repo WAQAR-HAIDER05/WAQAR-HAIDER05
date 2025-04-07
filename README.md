@@ -13,7 +13,7 @@
 🎓 Final Year Student - BS Software Engineering (Arid University, Pakistan)  
 💡 Headstarter Fellow — Building 5 AI Projects in 5 Weeks  
 🌐 Passionate about **Web Development**, **Data Visualization**, and **AI Applications**  
-📫 Reach me via [GitHub Issues](https://github.com/waqar-haider/waqar-haider/issues)  
+📫 Reach me via [GitHub Issues](https://github.com/waqar-haider/waqar-haider)  
 🧠 Fun Fact: *Game of Thrones Night's Watch cloaks were made from IKEA rugs!*
 
 </div>
