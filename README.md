@@ -1,89 +1,87 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=waqar-haider.waqar-haider" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Waqar+Haider!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Waqar+Haider!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate Data Scientist, Machine Learning Engineer, and Software Engineer from Pakistan 🇵🇰</h3>
+<h3 align="center">🚀 Software Engineer | Web Developer | Data Analyst | ML Beginner</h3>
 
-<br/>
+---
 
 <div align="center">
- 
- 🔭 I’m currently working on **a personal website** as part of my Headstarter Software Engineering fellowship.
 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+🎓 Final Year Student - BS Software Engineering (Arid University, Pakistan)  
+💡 Headstarter Fellow — Building 5 AI Projects in 5 Weeks  
+🌐 Passionate about **Web Development**, **Data Visualization**, and **AI Applications**  
+📫 Reach me via [GitHub Issues](https://github.com/waqar-haider/waqar-haider/issues)  
+🧠 Fun Fact: *Game of Thrones Night's Watch cloaks were made from IKEA rugs!*
 
-💬 Ask me about **Python, Data Science, Machine Learning, or anything [here](https://github.com/waqar-haider/waqar-haider/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:haiderwaqar2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/waqar--haider" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://waqar-haider05.github.io/WAQAR-HAIDER/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
-<br/>
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🔗 Portfolio Website](https://waqar-haider05.github.io/WAQAR-HAIDER/) | Clean, responsive personal portfolio | HTML, CSS, JavaScript |
+| [📝 AI Blog Generator](https://github.com/waqar-haider/AI-Blog-Generator) | Gemini-powered app to generate blogs | Python, Streamlit |
+| [📦 Inventory Manager](https://github.com/waqar-haider/inventory-management-nextjs) | Firebase-based inventory UI | Next.js, Firebase |
+| [📊 Netflix Dashboard](https://github.com/waqar-haider/Netflix-Top20-Movie-Analysis) | Streamlit app for Top 20 movies analysis | Python, Pandas, Seaborn |
+| [📈 HR Analytics](https://github.com/waqar-haider/HR-Analytics-Capstone) | Predict employee turnover using ML | Python, ML, Seaborn |
+| [📉 Coffee Shop Sales](https://github.com/waqar-haider/Coffee-Shop-Sales-Dashboard) | Excel dashboard for sales analysis | Excel, Pivot Tables |
+| [🛍️ E-Commerce Dashboard](https://github.com/waqar-haider/E-Commerce-PowerBI) | Sales performance insights | Power BI |
+
+---
+
+## 🛠️ Tech & Tools
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,jupyter,vscode,git,github" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,jupyter,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,figma" />
 </div>
 
-<h2 align="center">📜 Certifications 📜</h2>
+---
+
+## 📜 Certifications
+
+- ✅ IT Specialist - Python (Certiport)
+- 📊 Data Visualization with Python – Coursera & Cognitive Class
+- 🧠 Machine Learning with Python – IBM & Coursera
+- 📈 Data Analysis with Python – Cognitive Class
+- 🔍 Applied Data Science Level 2 – IBM
+- 🧬 Python for AI & Development – IBM
+- 🌐 Intro to AI – IBM
+- 🐍 Python, Pandas, Numpy – Udemy
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <p><strong>IT Specialist - Python</strong> - Certiport (June 2024)</p>
-  <p><strong>Data Visualization with Python</strong> - Coursera (May 2024)</p>
-  <p><strong>Machine Learning with Python</strong> - Coursera (May 2024)</p>
-  <p><strong>Applied Data Science with Python - Level 2</strong> - IBM (April 2024)</p>
-  <p><strong>Data Analysis with Python</strong> - Cognitive Class (April 2024)</p>
-  <p><strong>Python 101 for Data Science</strong> - Cognitive Class (April 2024)</p>
-  <p><strong>Introduction to Artificial Intelligence (AI)</strong> - IBM (March 2024)</p>
-  <p><strong>Python for Data Science, AI & Development</strong> - IBM (March 2024)</p>
-</div>
-
-<br/>
-<hr/>
-
-<!--<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/waqar-haider/waqar-haider/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>-->
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=waqar-haider&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=waqar-haider&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=waqar-haider&count_private=true&theme=react&border_radius=10" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=waqar-haider&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar-haider&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar-haider&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
 </div>
 
-<br/><br/>
+---
 
-<hr/>
+## 📫 Let's Connect
 
 <div align="center">
-  <h2>💬 Quotes 💬</h2>
-  <p>"Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
-  <p>"Programming isn't about what you know; it's about what you can figure out." – Chris Pine</p>
-  <p>"The best way to predict the future is to invent it." – Alan Kay</p>
+  <a href="mailto:haiderwaqar2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://linkedin.com/in/waqar--haider" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://waqar-haider05.github.io/WAQAR-HAIDER/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </div>
 
-<br/>
+---
+
+## 💬 Favorite Quotes
+
+> 💬 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+> 💬 *"Programming isn't about what you know; it's about what you can figure out."* – Chris Pine  
+> 💬 *"The best way to predict the future is to invent it."* – Alan Kay  
+
+---
