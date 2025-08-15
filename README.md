@@ -1,22 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=waqar-haider.waqar-haider" />
+![Header](./src/header_.png)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Waqar+Haider!;" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">🚀 Software Engineer | Web Developer | Data Analyst | ML Beginner</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&font=40&lines=Hi+There!+👋,+I'm+Waqar+Haider!;🚀+Software+Engineer+%7C+Web+Developer+%7C+Data+Analyst+%7C+ML+Beginner;Passionate+about+Web+Development,+Data+Visualization,+and+AI+Applications;Headstarter+Fellow+—+Building+5+AI+Projects+in+5+Weeks)](https://git.io/typing-svg)
 
 ---
 
-<div align="center">
-
-🎓 Final Year Student - BS Software Engineering (Arid University, Pakistan)  
-💡 Headstarter Fellow — Building 5 AI Projects in 5 Weeks  
+🎓 **Bachelor of Science in Software Engineering — Arid University, Pakistan**  
+💡 **Headstarter Fellow — Building 5 AI Projects in 5 Weeks**  
 🌐 Passionate about **Web Development**, **Data Visualization**, and **AI Applications**  
 📫 Reach me via [GitHub Issues](https://github.com/waqar-haider/waqar-haider)  
 🧠 Fun Fact: *Game of Thrones Night's Watch cloaks were made from IKEA rugs!*
-
-</div>
 
 ---
 
@@ -34,13 +26,35 @@
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠 Languages and Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nextjs,nodejs" />
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,jupyter,firebase" />
-  <img src="https://skillicons.dev/icons?i=mysql,figma" />
-</div>
+- **Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,cpp,express" />
+  </a>
+</p>
+
+- **Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+  </a>
+</p>
+
+- **Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+- **Cloud & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,github,git,vscode,jupyter,figma" />
+  </a>
+</p>
 
 ---
 
@@ -57,14 +71,37 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Activity Graph
 
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=waqar-haider&count_private=true&theme=react&border_radius=10" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=waqar-haider&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar-haider&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
-</div>
+![GitHub activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+<a href="https://github.com/waqar-haider">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=waqar-haider&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Waqar's GitHub stats"/>
+</a>
+</p>
+
+<details open align="center">
+  <summary>📊 More Stats</summary>
+  <br>
+  <div align="center">
+   <a href="https://github.com/waqar-haider">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waqar-haider&theme=algolia" width="100%" /> </br></br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waqar-haider&theme=algolia" width="31%" align="left"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waqar-haider&theme=algolia" width="31%" align="right" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=waqar-haider&theme=algolia" width="31%" align="center" />
+    </br></br>
+   </a>
+   <a href="https://github.com/waqar-haider"> 
+     <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution Stats" width="%" /></br></br>
+   </a> 
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waqar-haider&theme=algolia&card_width=1000)](https://github.com/waqar-haider) </br></br>
+   [![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=waqar-haider&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/waqar-haider) </br>
+   [![Trophy](https://github-profile-trophy.vercel.app/?username=waqar-haider&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/waqar-haider) 
+  </div>
+</details>
 
 ---
 
@@ -85,3 +122,5 @@
 > 💬 *"The best way to predict the future is to invent it."* – Alan Kay  
 
 ---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people!</b> Feel free to say hi anytime. 😊</em>
