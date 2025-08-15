@@ -4,10 +4,10 @@
 
 ---
 
-🎓 **Bachelor of Science in Software Engineering — Arid University, Pakistan**  
-💡 **Headstarter Fellow — Building 5 AI Projects in 5 Weeks**  
+🎓 **BS Software Engineering Graduate — Arid University, Pakistan**  
+💡 **Headstarter Fellow — Built 5 AI Projects in 5 Weeks**  
 🌐 Passionate about **Web Development**, **Data Visualization**, and **AI Applications**  
-📫 Reach me via [GitHub Issues](https://github.com/waqar-haider/waqar-haider)  
+📫 Reach me via [GitHub Issues](https://github.com/waqar-haider05/waqar-haider05)  
 🧠 Fun Fact: *Game of Thrones Night's Watch cloaks were made from IKEA rugs!*
 
 ---
@@ -17,12 +17,12 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🔗 Portfolio Website](https://waqar-haider05.github.io/WAQAR-HAIDER/) | Clean, responsive personal portfolio | HTML, CSS, JavaScript |
-| [📝 AI Blog Generator](https://github.com/waqar-haider/AI-Blog-Generator) | Gemini-powered app to generate blogs | Python, Streamlit |
-| [📦 Inventory Manager](https://github.com/waqar-haider/inventory-management-nextjs) | Firebase-based inventory UI | Next.js, Firebase |
-| [📊 Netflix Dashboard](https://github.com/waqar-haider/Netflix-Top20-Movie-Analysis) | Streamlit app for Top 20 movies analysis | Python, Pandas, Seaborn |
-| [📈 HR Analytics](https://github.com/waqar-haider/HR-Analytics-Capstone) | Predict employee turnover using ML | Python, ML, Seaborn |
-| [📉 Coffee Shop Sales](https://github.com/waqar-haider/Coffee-Shop-Sales-Dashboard) | Excel dashboard for sales analysis | Excel, Pivot Tables |
-| [🛍️ E-Commerce Dashboard](https://github.com/waqar-haider/E-Commerce-PowerBI) | Sales performance insights | Power BI |
+| [📝 AI Blog Generator](https://github.com/waqar-haider05/AI-Blog-Generator) | Gemini-powered app to generate blogs | Python, Streamlit |
+| [📦 Inventory Manager](https://github.com/waqar-haider05/inventory-management-nextjs) | Firebase-based inventory UI | Next.js, Firebase |
+| [📊 Netflix Dashboard](https://github.com/waqar-haider05/Netflix-Top20-Movie-Analysis) | Streamlit app for Top 20 movies analysis | Python, Pandas, Seaborn |
+| [📈 HR Analytics](https://github.com/waqar-haider05/HR-Analytics-Capstone) | Predict employee turnover using ML | Python, ML, Seaborn |
+| [📉 Coffee Shop Sales](https://github.com/waqar-haider05/Coffee-Shop-Sales-Dashboard) | Excel dashboard for sales analysis | Excel, Pivot Tables |
+| [🛍️ E-Commerce Dashboard](https://github.com/waqar-haider05/E-Commerce-PowerBI) | Sales performance insights | Power BI |
 
 ---
 
@@ -78,8 +78,8 @@
 ---
 
 <p align="center">
-<a href="https://github.com/waqar-haider">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=waqar-haider&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Waqar's GitHub stats"/>
+<a href="https://github.com/waqar-haider05">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=waqar-haider05&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Waqar's GitHub stats"/>
 </a>
 </p>
 
@@ -87,19 +87,19 @@
   <summary>📊 More Stats</summary>
   <br>
   <div align="center">
-   <a href="https://github.com/waqar-haider">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waqar-haider&theme=algolia" width="100%" /> </br></br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waqar-haider&theme=algolia" width="31%" align="left"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waqar-haider&theme=algolia" width="31%" align="right" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=waqar-haider&theme=algolia" width="31%" align="center" />
+   <a href="https://github.com/waqar-haider05">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waqar-haider05&theme=algolia" width="100%" /> </br></br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waqar-haider05&theme=algolia" width="31%" align="left"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waqar-haider05&theme=algolia" width="31%" align="right" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=waqar-haider05&theme=algolia" width="31%" align="center" />
     </br></br>
    </a>
-   <a href="https://github.com/waqar-haider"> 
+   <a href="https://github.com/waqar-haider05"> 
      <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution Stats" width="%" /></br></br>
    </a> 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waqar-haider&theme=algolia&card_width=1000)](https://github.com/waqar-haider) </br></br>
-   [![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=waqar-haider&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/waqar-haider) </br>
-   [![Trophy](https://github-profile-trophy.vercel.app/?username=waqar-haider&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/waqar-haider) 
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waqar-haider05&theme=algolia&card_width=1000)](https://github.com/waqar-haider05) </br></br>
+   [![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=waqar-haider05&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/waqar-haider05) </br>
+   [![Trophy](https://github-profile-trophy.vercel.app/?username=waqar-haider05&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/waqar-haider05) 
   </div>
 </details>
 
@@ -123,4 +123,6 @@
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people!</b> Feel free to say hi anytime. 😊</em>
+<p align="center">
+  <img src="./src/footer_.png" alt="Footer" />
+</p>
